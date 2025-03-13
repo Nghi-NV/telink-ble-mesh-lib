@@ -32,7 +32,7 @@ Add the dependency
 
 ```groovy
 dependencies {
-    implementation 'com.github.nghi-nv:TelinkBleMeshLib:1.0.0'
+    implementation 'com.github.Nghi-NV:telink-ble-mesh-lib:1.0.0'
 }
 ```
 
