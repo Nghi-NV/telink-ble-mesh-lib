@@ -33,6 +33,8 @@ Add the dependency
 ```groovy
 dependencies {
     implementation 'com.github.Nghi-NV:telink-ble-mesh-lib:1.1.0'
+    implementation "com.madgag.spongycastle:core:1.58.0.0"
+    implementation "com.madgag.spongycastle:prov:1.58.0.0"
 }
 ```
 
